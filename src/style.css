@@ -12,6 +12,16 @@ body {
   height: 100vh;
 }
 
+h1 {
+  font-size: 6rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  line-height: 1em;
+  color: rgb(78, 78, 78);
+  text-transform: lowercase;
+  text-align: center;
+}
+
 .navBar {
   position: relative;
 }
@@ -162,16 +172,6 @@ a {
   line-height: 1.5em;
 }
 
-h1 {
-  font-size: 6rem;
-  font-weight: 600;
-  margin-bottom: 2rem;
-  line-height: 1em;
-  color: rgb(78, 78, 78);
-  text-transform: lowercase;
-  text-align: center;
-}
-
 .checkbox {
   margin-right: 15px;
 }
@@ -194,4 +194,3 @@ h1 {
   padding: 10px;
   border: 1px solid #dfdfdf;
 }
-
