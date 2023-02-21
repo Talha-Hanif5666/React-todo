@@ -54,7 +54,7 @@
 
 > Our live demo can be found on
 
-- [Live Demo Link](https://talha-hanif5666.github.io/Todo-list-new/dist/)
+- [Live Demo Link will be available when ready]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
